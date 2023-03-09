@@ -1,2 +1,2 @@
 # django_tutorial
-장고 튜토리얼
+장고 튜토리얼 
